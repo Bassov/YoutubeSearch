@@ -10,7 +10,8 @@
     "test:watch": "npm run test -- --watch",
     "build": "react-scripts build"
   },
-  "author": "",
+  "homepage": "https://bassov.github.io/YoutubeSearch",
+  "author": "Basov Alexandr",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
